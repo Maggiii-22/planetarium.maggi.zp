@@ -256,6 +256,10 @@ header {
     position: relative;
 }
 
+    .bild_milchstraße{
+    width: 300px;
+}
+
     .header-text p {
         font-size: 16px;
     }
